@@ -1,2 +1,0 @@
-# NeverWin.cc
-NeverWin
